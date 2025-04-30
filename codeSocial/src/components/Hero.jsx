@@ -11,11 +11,7 @@ const Hero = () => {
       name: "Frappés",
       icon: "🥤",
       products: [
-        {
-          name: "Frappé mocha",
-          price: "S/ 13.50",
-          description: "Frappé de café con sabor a chocolate",
-        },
+      
         {
           name: "Frappé caramel",
           price: "S/ 13.50",
